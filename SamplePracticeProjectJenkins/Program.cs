@@ -11,6 +11,7 @@ namespace SamplePracticeProjectJenkins
         static void Main(string[] args)
         {
             Console.WriteLine("Hello this is another project !!!!");
+            Console.WriteLine("Changed);
             Console.ReadKey();
         }
     }
